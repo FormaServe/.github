@@ -12,6 +12,8 @@ We are renowned for our training courses, support & products on the IBM i (aka A
 
 We have been developing Open Source software for IBM i since the early 2000s and always have time for a natter about Open Source.
 
+
+
 We believe in keeping the values that started the company over thirty years ago, **Pride, Passion, Knowledge**
 
 ## 📹 Our IBM i Training Videos
@@ -51,12 +53,11 @@ Website - [Click here.](https://www.formaserve.co.uk)<br>
 ## 🏠 Location
 We are located in London, England.
 
-
 ## 📝 License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- **© 1990 - 2021 [FormaServe Systems Ltd](https://www.formaserve.co.uk)**
+- **© 1990 - 2022 [FormaServe Systems Ltd](https://www.formaserve.co.uk)**
 
 ## Open Source on IBM i - Oh Yea!
 👍👍
