@@ -4,7 +4,9 @@
 
 FormaServe Systems Ltd specialises in IT development, support & training.
 
-Backing up our values, FormaServe are members of the IBM Partnerworld program, Microsoft Partners & Intel Software Partners.  We are also members of IBMs ISV Advisory Board.
+Backing up our values, FormaServe are members of the IBM Partnerworld program, Microsoft Partners & Intel Software Partners.
+
+We are also members of IBMs ISV Advisory Board and our employees have gained IBM Champions status, with the latest IBM i developer certification.
 
 We are renowned for our training courses, support & products on the IBM i (aka AS/400 - i5 - iSeries).
 
